@@ -1,4 +1,4 @@
-[![Open Data Manchester](images/odm_banner.jpg)](https://ourstreetschorlton.co.uk/){target=_blank}
+[![Our Streets Chorlton](images/banner.png)](https://ourstreetschorlton.co.uk/){target=_blank}
 
 
 ## Version
