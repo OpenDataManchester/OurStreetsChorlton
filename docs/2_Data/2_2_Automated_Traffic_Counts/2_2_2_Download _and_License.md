@@ -11,4 +11,4 @@ Automated traffic count data from multiple roads across the Chorlton and Chorlto
 |License URL|https://creativecommons.org/licenses/by-nc/4.0/legalcode|
 |Lineage|Downloaded from individual telraam cameras via telraam.net and uploaded to Github.|
 |Update process|Yearly|
-|Download Links|.|
+|Download Links|[Download via Github](https://github.com/OpenDataManchester/OurStreetsChorlton/tree/main/data)|

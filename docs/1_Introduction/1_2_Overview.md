@@ -21,7 +21,7 @@ We also asked them to tell us what they would need in order to feel safe and com
 
 A public Miro board which summarises input from these sessions can be viewed [online](https://miro.com/app/board/o9J_lWqN_7g=/){target=_blank}.
 
-# Data Formats
+## Formats
 
 All datasets are released in csv format. csv files can be created and edited in text editors, as well as  spreadsheet packages such as Microsoft Excel, Apple Numbers, or Open  Office.
 

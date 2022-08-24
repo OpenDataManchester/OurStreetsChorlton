@@ -12,4 +12,4 @@ Footfall data collected from automatic counters located in the Chorlton Cross sh
 |License URL|https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/|
 |Lineage|Downloaded from Springboard Analyser, uploaded manually to Github.|
 |Update process|Yearly|
-|Download Links|.|
+|Download Links|[Download via Github](https://github.com/OpenDataManchester/OurStreetsChorlton/tree/main/data)|

@@ -12,4 +12,4 @@ Air quality data measuring nitrogen monoxide, nitrogen dioxide, ozone and partic
 |License URL| https://creativecommons.org/licenses/by-nc/4.0/|
 |Lineage|Downloaded from Earthsense MappAir dashboard, uploaded to Github.|
 |Update process|Updated monthly, Jan - Dec 2021.|
-|Download Links|.|
+|Download Links|[Download via Github](https://github.com/OpenDataManchester/OurStreetsChorlton/tree/main/data)|

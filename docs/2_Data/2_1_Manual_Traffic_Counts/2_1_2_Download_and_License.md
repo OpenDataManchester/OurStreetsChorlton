@@ -11,5 +11,5 @@ Traffic count data conducted from three locations across the Chorlton and Chorlt
 |License URL|https://creativecommons.org/licenses/by/4.0/|
 |Lineage|Collected and shared via QTally app and uploaded to Github.|
 |Update process|None|
-|Download Links|.|
+|Download|[Download via Github](https://github.com/OpenDataManchester/OurStreetsChorlton/tree/main/data)|
 
